@@ -42,4 +42,19 @@ public class Day1_Principal {
         // Compare the string with the reverse
         return numString.equals(reverse);
     }
+
+     public static boolean isPalindromeSolution2(int x) {
+        // if x is negative, it can't be a palindrome
+        if (x < 0) {
+            return false;
+        }
+        int valor = x;
+        int reverse = 0;
+        // reverse the number using modules and division
+        while (x != 0) {
+            reverse = reverse * 10 + x % 10;
+            x = x / 10;
+        }
+        return valor == reverse;
+    }
 }
