@@ -20,6 +20,7 @@ public class Day2_Principal {
         // Print the output
         System.out.println("Input: n = " + n);
         System.out.println("Output: " + isPowerOfTwo(n));
+        System.out.println("Output: " + isPowerOfTwo2(n));
     }
 
     public static boolean isPowerOfTwo(int n) {
@@ -44,4 +45,16 @@ public class Day2_Principal {
         // If the number is not a power of two
         return false;
     }
+
+    public static boolean isPowerOfTwo2(int n){
+        if (n==1){
+            return true;
+        }
+        if (n <= 0 || (n%2 != 0)) {
+            return false;
+        }
+        var exponente = Math.log(n)/Math.log(2);
+        return Math.pow(2,exponente)==n;
+    }
 }
+
