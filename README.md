@@ -1,24 +1,24 @@
 # 100 Days of Data Structure Algorithm  
 
-Bienvenido al repositorio **100 Days of Data Structure Algorithm**. Este proyecto está diseñado para mejorar mis habilidades en estructuras de datos y algoritmos a lo largo de 100 días de práctica constante.  
+Welcome to the **100 Days of Data Structure Algorithm** repository. This project is designed to improve my skills in data structures and algorithms over 100 days of consistent practice.  
 
-## Descripción  
+## Description  
 
-Cada día actualizaré este repositorio con nuevos ejercicios y soluciones. Todos los ejercicios se sacan de [LeetCode](https://leetcode.com), una plataforma popular para practicar problemas de programación y mejorar tus habilidades en algoritmos y estructuras de datos.  
+Every day I will update this repository with new exercises and solutions. All exercises are sourced from [LeetCode](https://leetcode.com), a popular platform for practicing programming problems and enhancing your skills in algorithms and data structures.  
 
-### Estructura del repositorio  
+### Repository Structure  
 
-- Cada día tendrá su propia carpeta con los ejercicios realizados.  
-- Dentro de cada carpeta, encontrarás soluciones y explicaciones para cada problema.  
+- Each day will have its own folder with the exercises completed.  
+- Inside each folder, you will find solutions and explanations for each problem.  
 
-## Cómo contribuir  
+## How to Contribute  
 
-Si deseas contribuir al proyecto o sugerir problemas adicionales para resolver, siéntete libre de abrir un *issue* o hacer un *pull request*.  
+If you want to contribute to the project or suggest additional problems to solve, feel free to open an issue or submit a pull request.  
 
-## Contacto  
+## Contact  
 
-Para cualquier consulta, puedes contactarme a través de mi [correo electrónico](mailto:erickjo10x@gmail.com).   
+For any inquiries, you can reach me at my [email](mailto:erickjo10x@gmail.com).   
 
-## Licencia  
+## License  
 
-Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
