@@ -10,7 +10,6 @@ public class Day1_Principal {
         String textProblem = """
                 Day 1: Palindrome Number
                 Given an integer x, return true if x is a palindrome, and false otherwise.
-                range: -231 <= x <= 230
                 """;
 
         // Print the problem and ask for the input
@@ -29,7 +28,7 @@ public class Day1_Principal {
     public static boolean isPalindrome(int x) {
 
         // Check if the number is negative or out of range
-        if (x < 0 || !( x < 230 )) {
+        if (x < 0) {
             return false;
         }
 
