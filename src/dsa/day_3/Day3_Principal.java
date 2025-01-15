@@ -22,7 +22,6 @@ public class Day3_Principal {
         // Print the output
         System.out.println("Input: n = " + n);
         System.out.println("Output: " + fib(n));
-        System.out.println("Output: " + fib(n));
     }
     public static int fib(int n){
 
