@@ -8,13 +8,13 @@ public class Day16_Principal {
         // Problem
         String textProblem = """
                 Day 16: Largest Number At Least Twice of Others
-                Determine whether the largest element in the array is at least twice as much as every other number in the array.
-                If it is, return the index of the largest element, or return -1 otherwise.
+                You are given an integer array nums where the largest integer is unique.
+                Determine whether the largest element in the array is at least twice as much as every other number in the array. If it is, return the index of the largest element, or return -1 otherwise.
                 """;
         // Print the problem and ask for the input
         System.out.println(textProblem);
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number of elements in the array: ");
+        System.out.print("Enter the number of elements in the array: ");
         int n = sc.nextInt();
         int[] nums = new int[n];
         System.out.println("Enter the elements of the array: ");
